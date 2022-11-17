@@ -1,6 +1,8 @@
 import java.util.Scanner; //извиквам четеца като готов клас от библиотеката
+
 public class ChangeTheValues {//public class
-    public static void main(String[] Args){
+
+    public static void main(String[] Args) {
         Scanner see = new Scanner(System.in); //създавам нов четец във входа на системата
         System.out.print("Insert the value1: "); //подканям да се въжда число
         int val1 = see.nextInt(); //създавам променлива, която приема стойността въвдена от клавиатурата
