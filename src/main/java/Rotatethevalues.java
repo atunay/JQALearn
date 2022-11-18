@@ -14,7 +14,7 @@ public class Rotatethevalues {
         y = z - (x + y); //3
         x = z - (x + y); //2
         z = z - (x + y); //1
-        System.out.println("The new X value is: "  + x); //показвам на екран новите стойности
+        System.out.println("The new X value is: " + x); //показвам на екран новите стойности
         System.out.println("The new Y value is: " + y);
         System.out.println("The new Z value is: " + z);
         System.out.print("The difference is: " + ((x + y) - z)); //показвам разликата между сбора и едната променлива

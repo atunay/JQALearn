@@ -1,14 +1,14 @@
-import java.util.Scanner;
+import java.util.Scanner; //четец от клас от библиотеката
 
 public class DaysOfTheWeek {
     public static void main(String[] Args) {
-        Scanner see = new Scanner(System.in);
-        System.out.print("Enter the number from one to seven: ");
-        int day = see.nextInt();
-        switch (day) {
+        Scanner see = new Scanner(System.in); //четец на входа на системата
+        System.out.print("Enter the number from one to seven: "); //текс за пояснение
+        int day = see.nextInt(); //променлива, чиято сойност ще бъде въведена
+        switch (day) { // определям условията при които се прави проверката
             case 1:
                 System.out.print("Monday");
-                break;
+                break; //команда за спиране на скрипта при вярно условие
             case 2:
                 System.out.print("Tuesday");
                 break;
@@ -27,16 +27,16 @@ public class DaysOfTheWeek {
             case 7:
                 System.out.print("Sunday");
                 break;
-            default:
+            default: //при въведена стойност различна от очкваната да изпише грешка
                 System.out.print("Error");
-        /*switch (day) {
+        /*switch (day) { //подобрена версия
             case 1 -> System.out.print("Monday");
             case 2 -> System.out.print("Tuesday");
             case 3 -> System.out.print("Wednesday");
             case 4 -> System.out.print("Thursday");
             case 5 -> System.out.print("Friday");
             case 6 -> System.out.print("Saturday");
-            case 7 -> System.out.print("Sunday");*/ //enhanced
+            case 7 -> System.out.print("Sunday");*/
 
 
         }
