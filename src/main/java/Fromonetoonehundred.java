@@ -4,9 +4,9 @@ public class Fromonetoonehundred {
         int t;
         for (i = 1; i <= 100; i++) {
             System.out.println(i);
-                for (t=100; t >= 1; t--)
+        }
+        for (t=100; t >= 1; t--) {
             System.out.println(t);
         }
-
     }
 }
