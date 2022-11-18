@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="added the fifth exercise from the first homework.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DaysOfTheWeek.java" afterDir="false" />
+    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="added the sixth exercise from the first homework.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StayOrGo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StayOrGo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668789103281</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added the sixth exercise from the first homework.">
+      <created>1668791300773</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668791300773</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,7 +120,8 @@
     <MESSAGE value="Formatting the code" />
     <MESSAGE value="added two new exercises from the first homework." />
     <MESSAGE value="added the fifth exercise from the first homework." />
-    <option name="LAST_COMMIT_MESSAGE" value="added the fifth exercise from the first homework." />
+    <MESSAGE value="added the sixth exercise from the first homework." />
+    <option name="LAST_COMMIT_MESSAGE" value="added the sixth exercise from the first homework." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
