@@ -1,6 +1,7 @@
-package Homework1;/*Да се изведат числата от 1 до 100 във възходящ и в низходящ ред
+/*Да се изведат числата от 1 до 100 във възходящ и в низходящ ред
 и да се отпечатат получените резултати с помоща на for цикъл
  */
+package Homework1;
 
 public class ExsFive {
     public static void main(String[] Args) {

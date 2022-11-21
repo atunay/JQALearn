@@ -1,8 +1,9 @@
-package Homework1;
 
 /*Да се изведат числата от 1 до 100 без числата от 54 до 74.
 След извършените операции да се отпечатат получените резултати. (hint - continue)
  */
+package Homework1;
+
 public class ExsSeven {
     public static void main(String[] Args) {
         int i = 1;
