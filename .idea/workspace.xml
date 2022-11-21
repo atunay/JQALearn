@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="complete the first homework.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework1/ExsFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework1/ExsFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework1/ExsOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework1/ExsSeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework1/ExsSix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework1/ExsThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework1/ExsTwo.java" afterDir="false" />
-    </list>
+    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="complete the first homework." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669020498701</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="complete the first homework.">
+      <created>1669051065637</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669051065637</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
