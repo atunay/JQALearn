@@ -1,6 +1,11 @@
+package Homework1;/*Да се изпишат подканващи съобщения към user, с които да въведе две числа от клавиатурата (тип int или double).
+След всяко въвеждане числата да бъдат отпечатени с подходящ текст.
+Да се въведе и 3-то число като се провери дали то е между първото и второто, като се изведе подходящо съобщение.
+ */
+
 import java.util.Scanner; //извикваме четеца от библиотеката
 
-public class Printthreeletters {
+public class ExsOne {
     public static void main(String[] args) {
         Scanner see = new Scanner(System.in); //създаваме нов четец и го слагаме в началото на системата
         System.out.print("Insert a number: "); //даваме команда да изпише текст

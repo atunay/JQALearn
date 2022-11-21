@@ -1,6 +1,11 @@
+package Homework1;/*Въведете 4 различни числа от конзолата и разменте стойността им две по две.
+Нека числата бъдат от различен тип (int и duoble). Разпечатайте новите им стойности.
+Направете кастване (casting) конвертиране на числата веднъж от int to double и после от double to int
+и след всяко конвертиране изведете сумата им
+ */
 import java.util.Scanner; //извиквам четеца като готов клас от библиотеката
 
-public class ChangeTheValues {//public class
+public class ExsTwo {//public class
 
     public static void main(String[] Args) {
         Scanner see = new Scanner(System.in); //създавам нов четец във входа на системата

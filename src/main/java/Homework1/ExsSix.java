@@ -1,6 +1,9 @@
+package Homework1;/*Да се въведе число от клавиатурата от 1 до 7
+и да се изведе съобщение кой ден от седмицата отговаря на съответно число с подходящо съобщение
+ */
 import java.util.Scanner; //четец от клас от библиотеката
 
-public class DaysOfTheWeek {
+public class ExsSix {
     public static void main(String[] Args) {
         Scanner see = new Scanner(System.in); //четец на входа на системата
         System.out.print("Enter the number from one to seven: "); //текс за пояснение
