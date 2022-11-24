@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="complete the first homework.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/ExcOneOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/ExcTwoOfTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669301933756</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="complete the first homework.">
+      <created>1669302866376</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669302866376</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
