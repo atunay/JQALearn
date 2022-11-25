@@ -4,9 +4,9 @@ package Homework2;
 
 public class ExcOneOfTwo {
     public static void main(String[] args) {
-        theMethod();
+        theMethod(); //в основният метод извкваме фунциите на друг метод и така изпълняваме скрипта
     }
-    static void theMethod () {
+    static void theMethod () { //метод със блок от код, в който се изпълнява функцията
         int a = 13;
         int b = 13;
         System.out.println(a + b);
