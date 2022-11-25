@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="Exercise two complete!" />
+    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="Exercise two complete!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2/ExcFiveOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework2/ExcFiveOfTwo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669393620618</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Exercise two complete!">
+      <created>1669395009972</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1669395009972</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
