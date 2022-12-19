@@ -30,8 +30,8 @@ public class Computer {
         this.price = 2100.50;
         this.operationSystem = "Windows";
     }
-    int comparePrice(Computer compare){
+  /*  int comparePrice(Computer compare){
         if
         return;
-    }
+    } */
 }
