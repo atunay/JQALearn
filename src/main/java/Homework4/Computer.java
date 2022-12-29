@@ -35,6 +35,7 @@ public class Computer {
         this.price = price;
         this.operationSystem = operationSystem;
     }
+
     int comparePrice(Computer comp1, Computer comp2){
         if (comp1.price > comp2.price) {
             return 1;
