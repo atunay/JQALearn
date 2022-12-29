@@ -7,7 +7,6 @@
     <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="Exercise four is on the way!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Homework4/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework4/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework4/ComputerPrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework4/ComputerPrices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672307920695</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Exercise four is on the way!">
+      <created>1672308704655</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1672308704656</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -35,7 +35,11 @@ public class Computer {
         this.price = price;
         this.operationSystem = operationSystem;
     }
-
+    Computer() {
+        this.year = 1980;
+        this.price = 1900.5;
+        this.operationSystem = "IBM";
+    }
     int comparePrice(Computer comp1, Computer comp2){
         if (comp1.price > comp2.price) {
             return 1;
