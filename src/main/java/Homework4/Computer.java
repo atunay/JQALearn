@@ -40,13 +40,15 @@ public class Computer {
         this.price = 1900.5;
         this.operationSystem = "IBM";
     }
-    int comparePrice(Computer comp1, Computer comp2){
-        if (comp1.price > comp2.price) {
-            return 1;
-        }
-        if (comp1.price < comp2.price)
-            return -1;
+    int comparePrice(Computer comp1) {
+        if (comp1.price > price) {
+            return 1; }
+        //System.out.println(comp1.price);
+        if (comp1.price < price) {
+            return -1; }
+        //System.out.println(comp2.price);
         else
-            return 0;
+        return 0;
+
     }
 }
