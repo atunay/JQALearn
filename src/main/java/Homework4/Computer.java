@@ -26,12 +26,19 @@ public class Computer {
     String operationSystem;
 
     Computer(int year, double price, String operationSystem) {
-        this.year = 2000;
-        this.price = 2100.50;
-        this.operationSystem = "Windows";
+        this.year = year;
+        this.price = price;
+        this.operationSystem = operationSystem;
     }
-  /*  int comparePrice(Computer compare){
-        if
-        return;
-    } */
+    int comparePrice(int x, double y, String z){
+        x = 1988;
+        y = 2000.50;
+        z = "IBM";
+        if (y>price)
+        return 1;
+        if (y<price)
+            return -1;
+        else
+            return 0;
+    }
 }
