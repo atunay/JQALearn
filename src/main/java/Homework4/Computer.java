@@ -29,6 +29,7 @@ public class Computer {
     int year;
     double price;
     String operationSystem;
+   // private Computer compare;
 
     Computer(int year, double price, String operationSystem) {
         this.year = year;
@@ -36,19 +37,20 @@ public class Computer {
         this.operationSystem = operationSystem;
     }
     Computer() {
-        this.year = 1980;
-        this.price = 1900.5;
-        this.operationSystem = "IBM";
+        year = 1980;
+        price = 1;
+        operationSystem = "IBM";
     }
-    int comparePrice(Computer comp1) {
-        if (comp1.price > price) {
-            return 1; }
-        //System.out.println(comp1.price);
-        if (comp1.price < price) {
-            return -1; }
-        //System.out.println(comp2.price);
-        else
-        return 0;
+    public int comparePrice(Computer compare) {
+      //  this.compare = compare;
 
+        if (compare.price > price)
+            return 1;
+        if (compare.price < price)
+            return -1;
+        else {
+            return 0;
+        }
     }
 }
+

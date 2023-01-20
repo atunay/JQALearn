@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="Exercise four is on the way!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework5/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework5/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework5/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Homework4/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework4/Computer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Homework4/ComputerPrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework4/ComputerPrices.java" afterDir="false" />
@@ -302,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672309867499</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Exercise four is on the way!">
+      <created>1672327591179</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1672327591179</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
