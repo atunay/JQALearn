@@ -4,7 +4,8 @@ public abstract class Animal implements IAnimal {
     abstract public void play ();
 }
 
-class Bird extends Animal {
+    class Bird extends Animal {
+
     @Override
     public void play() {
     System.out.println("Birds plays happy.");
@@ -15,8 +16,13 @@ class Bird extends Animal {
     System.out.println("Birds can be so noisy sometime!");
     }
     void synk () {
+        System.out.println("Tweet");
+    }
+    void synk(String a) {
+
         System.out.println("Tweet, tweet");
     }
+
     void fly () {
         System.out.println("Eagle fly free.");
     }

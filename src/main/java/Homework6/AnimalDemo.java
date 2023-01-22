@@ -8,6 +8,7 @@ public class AnimalDemo {
 
         Bird bird2 = new Bird();
         bird2.synk();
+        bird2.synk("Two birds are so loud");
         bird2.fly();
         bird2.makeSomeNoise();
         bird2.play();
