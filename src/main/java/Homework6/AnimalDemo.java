@@ -9,6 +9,8 @@ public class AnimalDemo {
         Bird bird2 = new Bird();
         bird2.synk();
         bird2.fly();
+        bird2.makeSomeNoise();
+        bird2.play();
 
         Animal cat = new Cat();
         cat.makeSomeNoise();
@@ -16,11 +18,17 @@ public class AnimalDemo {
 
         Cat cat2 = new Cat();
         cat2.climp();
+        cat2.makeSomeNoise();
+        cat2.play();
 
-        Dog dog = new Dog();
+        Animal dog = new Dog();
         dog.makeSomeNoise();
         dog.play();
-        dog.bringStick();
+
+        Dog dog2 = new Dog();
+        dog2.makeSomeNoise();
+        dog2.play();
+        dog2.bringStick();
         }
     }
 
