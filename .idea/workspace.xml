@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="Exercise four is on the way!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework5/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework5/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework5/Student.java" afterDir="false" />
+    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="Exercise Four updated! Exercise Five ready for review!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework4/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework4/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework4/ComputerPrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework4/ComputerPrices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672327591179</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Exercise Four updated! Exercise Five ready for review!">
+      <created>1674233342570</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1674233342570</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,7 +342,8 @@
     <MESSAGE value="Exercise three is complete!" />
     <MESSAGE value="Exercise four oin the way!" />
     <MESSAGE value="Exercise four is on the way!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise four is on the way!" />
+    <MESSAGE value="Exercise Four updated! Exercise Five ready for review!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise Four updated! Exercise Five ready for review!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
