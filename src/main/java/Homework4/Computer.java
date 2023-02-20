@@ -42,7 +42,7 @@ public class Computer {
         operationSystem = "IBM";
     }
     public int comparePrice(Computer compare) {
-      //  this.compare = compare;
+
 
         if (compare.price > price)
             return 1;
