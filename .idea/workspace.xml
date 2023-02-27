@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="Homework 8. Ready for review!" />
+    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="Homework 8. Ready for review!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JunitTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/SecondTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNGTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JunitTest1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/FirstTestCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/SecondTestCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNGTest1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/FirstTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/FirstTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/SeleniumTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/SeleniumTest1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +29,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="TestNG Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -63,16 +77,28 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/tunay/IdeaProjects/chromedriver_linux64",
-    "project.structure.last.edited": "Problems",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
+    "last_opened_file_path": "/home/tunay/Downloads/testng-6.7.jar",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "project.structure.side.proportion": "0.3951613",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FirstTestCase">
-    <configuration name="FirstTestCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.FirstTestCase" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Selenium" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SecondTestCaseTest.t5">
+    <configuration name="SecondTestCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.SecondTestCase" />
       <module name="JQALearn" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +110,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.SeleniumTest1" />
+    <configuration name="SecondTestCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JQALearn" />
       <extension name="coverage">
         <pattern>
@@ -93,14 +118,68 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.SecondTestCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondTestCaseTest.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JQALearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.SecondTestCaseTest" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondTestCaseTest.t4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JQALearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.SecondTestCaseTest" />
+      <option name="METHOD_NAME" value="t4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondTestCaseTest.t5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JQALearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.SecondTestCaseTest" />
+      <option name="METHOD_NAME" value="t5" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstTestCase" />
-        <item itemvalue="Application.SeleniumTest1" />
+        <item itemvalue="JUnit.SecondTestCaseTest.t5" />
+        <item itemvalue="JUnit.SecondTestCaseTest" />
+        <item itemvalue="JUnit.SecondTestCaseTest.main" />
+        <item itemvalue="JUnit.SecondTestCaseTest.t4" />
+        <item itemvalue="Application.SecondTestCase" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676966547324</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Homework 8. Ready for review!">
+      <created>1676966746868</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1676966746868</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
