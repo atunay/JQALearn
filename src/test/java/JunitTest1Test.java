@@ -1,3 +1,4 @@
+import selenium.JunitTest1;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -9,7 +10,7 @@ public class JunitTest1Test {
     @Test
     public void getName() {
 JunitTest1 junit = new JunitTest1("JNT");
-assertEquals("JNT", junit.getName());
+assertEquals("JN", junit.getName());
     }
 
     @org.testng.annotations.Test
