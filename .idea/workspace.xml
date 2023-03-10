@@ -8,50 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="Homework 9 and some miscellaneous...">
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/ActionActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/pages/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/pages/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/tests/Setting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/tests/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/secTestCaseVer2Demo/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/secTestCaseVer2Demo/SignUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionActionsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_02_23____19_00____Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_02_23_г_,_19_00_ч__[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork1/ExsFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork1/ExsFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork1/ExsOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork1/ExsSeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork1/ExsSix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork1/ExsThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/ExsTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork1/ExsTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2/ExcFiveOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork2/ExcFiveOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2/ExcFourOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork2/ExcFourOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2/ExcOneOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork2/ExcOneOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2/ExcSixOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork2/ExcSixOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2/ExcThreeOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork2/ExcThreeOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2/ExcThreeOfTwoExtended.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork2/ExcThreeOfTwoExtended.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2/ExcTwoOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork2/ExcTwoOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork3/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/CarPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork3/CarPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework4/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork4/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework4/ComputerPrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork4/ComputerPrices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework5/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork5/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework5/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork5/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework5/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork5/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework6/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork6/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework6/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork6/AnimalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework6/IAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork6/IAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JunitTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/JunitTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/FirstTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork9/FirstTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/SecondTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork9/SecondTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/SeleniumTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/SeleniumTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestNGTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/TestNGTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JunitTest1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JunitTest1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium/FirstTestCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/FirstTestCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium/SecondTestCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/SecondTestCaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,27 +64,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/tunay/Downloads&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.3951613&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
+    "last_opened_file_path": "/home/tunay/Downloads",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3951613",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -575,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677520657629</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Homework 9 and some miscellaneous...">
+      <created>1678474486222</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1678474486222</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
