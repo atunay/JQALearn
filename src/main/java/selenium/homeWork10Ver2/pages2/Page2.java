@@ -1,10 +1,13 @@
 package selenium.homeWork10Ver2.pages2;
 
+import junit.framework.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
+
+import java.util.Objects;
 
 public class Page2 {
     WebDriver driver;
@@ -33,14 +36,14 @@ public class Page2 {
         enter.click();
         System.out.println("The Test is passed!");
     }
-    /*public void warningTxt (){
-    String expectedWarningTxt = ("The username and password could not be verified.");
+    public void warningTxt (){
+    String expectedWarningTxt = ("Please enter a username and password.");
     String actualWarningTxt = text.getText();
         System.out.println(actualWarningTxt);
         Assert.assertEquals(expectedWarningTxt, actualWarningTxt);
         if (Objects.equals(expectedWarningTxt, actualWarningTxt)) {
             System.out.println("Wrong credentials need to register first");
-            driver.close();
+            //driver.close();
         }
-    }*/
+    }
 }

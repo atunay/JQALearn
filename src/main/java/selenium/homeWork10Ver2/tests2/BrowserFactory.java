@@ -3,6 +3,7 @@ package selenium.homeWork10Ver2.tests2;
 
 import org.junit.After;
 import org.junit.Before;
+import org.junit.BeforeClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -24,7 +25,7 @@ public class BrowserFactory {
     }
     public static WebDriver getBrowser(String browserName) {
 
-        WebDriver driver = drivers.get("Chrome");
+        WebDriver driver = null;
 
         switch (browserName) {
            case "Firefox":
@@ -62,12 +63,11 @@ public class BrowserFactory {
     }
 
 
-    @After
-
+   @After
     public void closeAllDriver() {
         for (String key : drivers.keySet()) {
             drivers.get(key).close();
-            drivers.get(key).quit();
+            //drivers.get(key).quit();
         }
     }
 }

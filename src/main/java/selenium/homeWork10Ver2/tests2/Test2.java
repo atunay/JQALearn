@@ -33,9 +33,9 @@ public class Test2 extends BrowserFactory {
        driver.manage().window().maximize();
 
        objPage2.fillName("asad");
-       objPage2.fillPass("1234");
+       objPage2.fillPass("");
        objPage2.clickENTR();
-        // objP2.warningTxt();
+       objPage2.warningTxt();
     }
 }
 

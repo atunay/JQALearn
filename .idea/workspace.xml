@@ -7,17 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="Homework 10 and some fixes...">
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/pages2/Page1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/pages2/Page2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/tests2/BrowserFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/tests2/Test2.java" afterDir="false" />
+    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="Homework 10 ver2 and some fixes...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/SeleniumTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/SeleniumTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/pages/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/pages/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/pages/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/pages/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/tests/Setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/tests/Setting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/tests/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/tests/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/pages2/Page2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/pages2/Page2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/tests2/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/tests2/BrowserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/tests2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/tests2/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,13 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667289628649</updated>
-    </task>
-    <task id="LOCAL-00002" summary="added two new exercises from the first homework.">
-      <created>1668772666860</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1668772666860</updated>
     </task>
     <task id="LOCAL-00003" summary="added the fifth exercise from the first homework.">
       <created>1668786948486</created>
@@ -552,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678475015276</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Homework 10 ver2 and some fixes...">
+      <created>1678729326378</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1678729326378</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -587,7 +581,8 @@
     <MESSAGE value="Homework 8. Ready for review!" />
     <MESSAGE value="Homework 9 and some miscellaneous..." />
     <MESSAGE value="Homework 10 and some fixes..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 10 and some fixes..." />
+    <MESSAGE value="Homework 10 ver2 and some fixes..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 10 ver2 and some fixes..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
