@@ -3,6 +3,7 @@ package selenium.homeWork10.pages;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
@@ -11,11 +12,14 @@ import java.util.Objects;
 
 public class P1 {
         WebDriver driver;
-        @FindBy(xpath = "//*[@id=\"loginPanel\"]/p[2]/a")  //?????
+        @FindBy(xpath = "//*[@id=\"loginPanel\"]/p[2]/a")
+        @CacheLookup
         WebElement actAttribute;
         @FindBy(how=How.XPATH,using="//*[@id=\"loginPanel\"]/p[2]/a")
+        @CacheLookup
         WebElement expAttribute;
         @FindBy(how=How.XPATH,using="//*[@id=\"loginPanel\"]/p[2]/a")
+        @CacheLookup
         WebElement register;
 
         public P1(WebDriver driver){

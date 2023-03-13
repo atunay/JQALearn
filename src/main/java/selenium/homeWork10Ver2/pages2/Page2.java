@@ -1,4 +1,4 @@
-package selenium.homeWork10.pages;
+package selenium.homeWork10Ver2.pages2;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
-public class P2 {
+public class Page2 {
     WebDriver driver;
 
     @FindBy(how= How.XPATH,using="//*[@id=\"loginPanel\"]/form/div[1]/input")
@@ -18,7 +18,7 @@ public class P2 {
     @FindBy(how=How.XPATH,using="//*[@id=\"rightPanel\"]/p")
     WebElement text;
 
-    public P2(WebDriver driver){
+    public Page2(WebDriver driver){
         this.driver = driver;
         PageFactory.initElements(driver, this);
     }
@@ -31,6 +31,7 @@ public class P2 {
     }
     public void clickENTR () {
         enter.click();
+        System.out.println("The Test is passed!");
     }
     /*public void warningTxt (){
     String expectedWarningTxt = ("The username and password could not be verified.");
