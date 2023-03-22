@@ -1,4 +1,4 @@
-package selenium.secTestCaseVer2Demo;
+package trainings.secTestCaseVer2Demo;
 
 
 import org.junit.After;

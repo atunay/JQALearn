@@ -1,4 +1,4 @@
-package selenium;
+package homeWorksSelenium;
 
 import org.junit.After;
 import org.junit.Before;

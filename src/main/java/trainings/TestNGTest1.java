@@ -1,4 +1,4 @@
-package selenium;
+package trainings;
 
 public class TestNGTest1 {
     String name;

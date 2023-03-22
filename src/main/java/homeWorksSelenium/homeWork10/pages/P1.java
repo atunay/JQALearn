@@ -1,4 +1,4 @@
-package selenium.homeWork10.pages;
+package homeWorksSelenium.homeWork10.pages;
 
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;

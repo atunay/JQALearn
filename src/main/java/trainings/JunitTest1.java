@@ -1,4 +1,4 @@
-package selenium;
+package trainings;
 
 public class JunitTest1 {
     String name;

@@ -1,9 +1,7 @@
-package selenium.homeWork10Ver2.tests2;
+package homeWorksSelenium.homeWork10Ver2.tests2;
 
 
-import org.junit.After;
 import org.junit.Before;
-import org.junit.BeforeClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -19,16 +17,17 @@ public class BrowserFactory {
     private static Map<String, WebDriver> drivers = new HashMap<String, WebDriver>();
 
     @Before
-    public void openDrivers () {
-    driver = BrowserFactory.getBrowser("Chrome");
-    driver.get("https://parabank.parasoft.com/parabank/index.htm");
+    public void openDrivers() {
+        driver = BrowserFactory.getBrowser("Edge");
+        driver.get("https://parabank.parasoft.com/parabank/index.htm");
     }
+
     public static WebDriver getBrowser(String browserName) {
 
         WebDriver driver = null;
 
         switch (browserName) {
-           case "Firefox":
+            case "Firefox":
                 driver = drivers.get("Firefox");
                 if (driver == null) {
                     System.setProperty("webdriver.gecko.driver",
@@ -49,7 +48,7 @@ public class BrowserFactory {
             case "Chrome":
                 driver = drivers.get("Chrome");
                 if (driver == null) {
-                    System.setProperty("webdriver.chrome.driver","/home/tunay/Downloads/chromedriver_linux64 (1)/chromedriver");
+                    System.setProperty("webdriver.chrome.driver", "/home/tunay/Downloads/chromedriver_linux64 (1)/chromedriver");
 
                     ChromeOptions options = new ChromeOptions();
                     options.addArguments("--remote-allow-origins=*");
@@ -63,12 +62,19 @@ public class BrowserFactory {
     }
 
 
-   @After
+    /*@After
     public void closeAllDriver() {
         for (String key : drivers.keySet()) {
             drivers.get(key).close();
             //drivers.get(key).quit();
         }
-    }
+    }*/
+     /*@After
+    public void closeAllDriver() {
+        for (String key : drivers.keySet()) {
+            drivers.get(key).close();
+            //drivers.get(key).quit();
+        }
+    }*/
 }
 

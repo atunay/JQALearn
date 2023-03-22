@@ -1,11 +1,9 @@
-package selenium.homeWork10Ver2.tests2;
+package homeWorksSelenium.homeWork10Ver2.tests2;
 
 
 import org.junit.Test;
-import selenium.homeWork10Ver2.pages2.Page1;
-import selenium.homeWork10Ver2.pages2.Page2;
-
-
+import homeWorksSelenium.homeWork10Ver2.pages2.Page1;
+import homeWorksSelenium.homeWork10Ver2.pages2.Page2;
 
 public class Test2 extends BrowserFactory {
 
@@ -31,6 +29,7 @@ public class Test2 extends BrowserFactory {
        driver.get("https://parabank.parasoft.com/parabank/index.htm");*/
        objPage2 = new Page2(driver);
        driver.manage().window().maximize();
+
 
        objPage2.fillName("asad");
        objPage2.fillPass("");
