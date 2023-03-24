@@ -20,6 +20,7 @@ public class ExplicitWaitTest {
 
         driver = new ChromeDriver(options);
         driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         driver.manage().window().maximize();
         driver.manage().deleteAllCookies();
 

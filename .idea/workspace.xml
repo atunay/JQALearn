@@ -7,21 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="We work hard to improve your experience.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWork11/ExplicitWaitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWork11/ExplicitWaitTesting.java" afterDir="false" />
+    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="homeWork11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10/pages/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10/pages/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10/pages/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10/pages/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10/tests/Setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10/tests/Setting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10/tests/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10/tests/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10Ver2/pages2/Page1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10Ver2/pages2/Page1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10Ver2/pages2/Page2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10Ver2/pages2/Page2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10Ver2/tests2/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10Ver2/tests2/BrowserFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10Ver2/tests2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10Ver2/tests2/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork9/FirstTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork9/FirstTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork9/SecondTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork9/SecondTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/trainings/SeleniumTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainings/SeleniumTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork11/ExplicitWaitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork11/ExplicitWaitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +42,7 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="fe5eb5fc-47e2-4c10-a8f9-09dd3e81f693" />
+        <option name="accountId" value="c979d246-9f21-4591-9940-5f441d12b9dc" />
         <option name="url" value="https://github.com/atunay/JQALearn.git" />
       </UrlAndAccount>
     </option>
@@ -65,7 +54,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -213,13 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667289628649</updated>
-    </task>
-    <task id="LOCAL-00005" summary="added the fifth exercise from the first homework.">
-      <created>1668789103281</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1668789103281</updated>
     </task>
     <task id="LOCAL-00006" summary="added the sixth exercise from the first homework.">
       <created>1668791300773</created>
@@ -557,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679505720006</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="homeWork11">
+      <created>1679669585348</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1679669585349</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -565,7 +554,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -594,7 +595,8 @@
     <MESSAGE value="Homework 10 and some fixes..." />
     <MESSAGE value="Homework 10 ver2 and some fixes..." />
     <MESSAGE value="We work hard to improve your experience." />
-    <option name="LAST_COMMIT_MESSAGE" value="We work hard to improve your experience." />
+    <MESSAGE value="homeWork11" />
+    <option name="LAST_COMMIT_MESSAGE" value="homeWork11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
