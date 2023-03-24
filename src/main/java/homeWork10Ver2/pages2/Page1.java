@@ -1,4 +1,4 @@
-package homeWorksSelenium.homeWork10Ver2.pages2;
+package homeWork10Ver2.pages2;
 
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
@@ -7,7 +7,6 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
-
 import java.util.Objects;
 
 public class Page1 {
@@ -21,6 +20,11 @@ public class Page1 {
     @FindBy(how=How.XPATH,using="//*[@id=\"loginPanel\"]/p[2]/a")
     @CacheLookup
     WebElement register;
+
+
+    public WebDriver getDriver() {
+        return driver;
+    }
 
     public Page1(WebDriver driver){
         this.driver = driver;

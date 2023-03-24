@@ -21,12 +21,12 @@ public class SeleniumTest1 {
 
         WebDriver driver = new EdgeDriver(options);
         driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
-        //driver.manage().window().maximize();
+        driver.manage().window().maximize();
         driver.manage().deleteAllCookies();
         driver.get("http://taxime.to");
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+        driver.findElement(By.xpath("/html/body/div/div/a")).click();
         driver.findElement(By.xpath("/html/body/section/div/div/div[2]/div/a")).click();
-        driver.findElement(By.xpath("/html/body/div[1]/div/a")).click();
         driver.quit();
     }
 }
@@ -39,7 +39,7 @@ public class SeleniumTest1 {
         options.addArguments("--remote-allow-origins=*");
 
         WebDriver driver = new ChromeDriver(options);
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+
         driver.get("http://taxime.to");
         driver.quit();
     }

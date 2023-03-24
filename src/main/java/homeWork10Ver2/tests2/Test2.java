@@ -1,12 +1,18 @@
-package homeWorksSelenium.homeWork10Ver2.tests2;
+package homeWork10Ver2.tests2;
 
 
+import homeWork10Ver2.pages2.Page1;
+import homeWork10Ver2.pages2.Page2;
 import org.junit.Test;
-import homeWorksSelenium.homeWork10Ver2.pages2.Page1;
-import homeWorksSelenium.homeWork10Ver2.pages2.Page2;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import java.time.Duration;
+import java.util.concurrent.TimeUnit;
+
+import static org.openqa.selenium.support.ui.ExpectedConditions.elementToBeClickable;
 
 public class Test2 extends BrowserFactory {
-
 
     Page1 objPage1;
     Page2 objPage2;
@@ -18,8 +24,9 @@ public class Test2 extends BrowserFactory {
         driver.get("https://parabank.parasoft.com/parabank/index.htm");*/ //С дабавяне на различни браузери за отделните тестове.
 
         objPage1 = new Page1(driver);
+        /*driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS); //управлението на браузера може да се прави и от тук
         driver.manage().window().maximize();
-
+        driver.manage().deleteAllCookies();*/
         objPage1.actAttr();
         objPage1.expAtrr();
     }
@@ -28,7 +35,6 @@ public class Test2 extends BrowserFactory {
        /*driver = BrowserFactory.getBrowser("Chrome");
        driver.get("https://parabank.parasoft.com/parabank/index.htm");*/
        objPage2 = new Page2(driver);
-       driver.manage().window().maximize();
 
 
        objPage2.fillName("asad");

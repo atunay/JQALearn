@@ -1,4 +1,4 @@
-package homeWorksSelenium.homeWork10Ver2.tests2;
+package homeWork10Ver2.tests2;
 
 
 import org.junit.Before;
@@ -6,10 +6,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.concurrent.TimeUnit;
 
 public class BrowserFactory {
     WebDriver driver;
@@ -20,6 +22,10 @@ public class BrowserFactory {
     public void openDrivers() {
         driver = BrowserFactory.getBrowser("Edge");
         driver.get("https://parabank.parasoft.com/parabank/index.htm");
+
+        driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS); //управлението на браузера може да се прави и от тук
+        driver.manage().window().maximize();
+        driver.manage().deleteAllCookies();
     }
 
     public static WebDriver getBrowser(String browserName) {
@@ -30,8 +36,7 @@ public class BrowserFactory {
             case "Firefox":
                 driver = drivers.get("Firefox");
                 if (driver == null) {
-                    System.setProperty("webdriver.gecko.driver",
-                            "/home/tunay/Downloads/geckodriver-v0.32.2-linux-aarch64/geckodriver");
+                    System.setProperty("webdriver.gecko.driver", "/home/tunay/Downloads/geckodriver-v0.32.2-linux-aarch64/geckodriver");
                     driver = new FirefoxDriver();
                     drivers.put("Firefox", driver);
                 }
@@ -39,9 +44,12 @@ public class BrowserFactory {
             case "Edge":
                 driver = drivers.get("Edge");
                 if (driver == null) {
-                    System.setProperty("webdriver.edge.driver",
-                            "/home/tunay/Downloads/edgedriver_linux64/msedgedriver");
-                    driver = new EdgeDriver();
+                    System.setProperty("webdriver.edge.driver", "/home/tunay/Downloads/edgedriver_linux64/msedgedriver");
+
+                    EdgeOptions options = new EdgeOptions();
+                    options.addArguments("--remote-allow-origins=*");
+
+                    driver = new EdgeDriver(options);
                     drivers.put("Edge", driver);
                 }
                 break;
@@ -54,6 +62,9 @@ public class BrowserFactory {
                     options.addArguments("--remote-allow-origins=*");
 
                     driver = new ChromeDriver(options);
+                   /* driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS); може да се задават и тук методи за управление на браузера.
+                    driver.manage().window().maximize();
+                    driver.manage().deleteAllCookies();*/
                     drivers.put("Chrome", driver);
                 }
                 break;

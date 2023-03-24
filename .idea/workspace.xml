@@ -7,27 +7,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="Homework 10 ver2 and some fixes...">
+    <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="We work hard to improve your experience.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWork11/ExplicitWaitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWork11/ExplicitWaitTesting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/ActionActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainings/ActionActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/JunitTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainings/JunitTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/SeleniumTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainings/SeleniumTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/TestNGTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainings/TestNGTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/pages/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10/pages/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/pages/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10/pages/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/tests/Setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10/tests/Setting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10/tests/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10/tests/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/pages2/Page1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10Ver2/pages2/Page1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/pages2/Page2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10Ver2/pages2/Page2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/tests2/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10Ver2/tests2/BrowserFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork10Ver2/tests2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10Ver2/tests2/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork9/FirstTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork9/FirstTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/homeWork9/SecondTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork9/SecondTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/secTestCaseVer2Demo/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainings/secTestCaseVer2Demo/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/secTestCaseVer2Demo/SignUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainings/secTestCaseVer2Demo/SignUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JunitTest1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JunitTest1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/FirstTestCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homeWorksSelenium/FirstTestCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/SecondTestCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homeWorksSelenium/SecondTestCaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10/pages/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10/pages/P1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10/pages/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10/pages/P2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10/tests/Setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10/tests/Setting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10/tests/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10/tests/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10Ver2/pages2/Page1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10Ver2/pages2/Page1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10Ver2/pages2/Page2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10Ver2/pages2/Page2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10Ver2/tests2/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10Ver2/tests2/BrowserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork10Ver2/tests2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork10Ver2/tests2/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork9/FirstTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork9/FirstTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorksSelenium/homeWork9/SecondTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork9/SecondTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trainings/SeleniumTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainings/SeleniumTest1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +37,8 @@
         <option value="Interface" />
         <option value="TestNG Test Class" />
         <option value="JUnit4 Test Class" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -124,13 +118,13 @@
       <recent name="Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SeleniumTest1">
-    <configuration name="SeleniumTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trainings.SeleniumTest1" />
+  <component name="RunManager" selected="JUnit.ExplicitWaitTesting">
+    <configuration name="SecondTestCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork9.SecondTestCase" />
       <module name="JQALearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trainings.*" />
+          <option name="PATTERN" value="homeWork9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,63 +132,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExplicitWaitTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JQALearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorksSelenium.homeWork10.tests.*" />
+          <option name="PATTERN" value="homeWork11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="selenium.homeWork10.tests" />
-      <option name="MAIN_CLASS_NAME" value="homeWorksSelenium.homeWork10.tests.Test" />
+      <option name="PACKAGE_NAME" value="homeWork11" />
+      <option name="MAIN_CLASS_NAME" value="homeWork11.ExplicitWaitTesting" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExplicitWaitTesting.testExplicitWait1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JQALearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorksSelenium.homeWork10Ver2.tests2.*" />
+          <option name="PATTERN" value="homeWork11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="selenium.homeWorkVer2.tests2" />
-      <option name="MAIN_CLASS_NAME" value="homeWorksSelenium.homeWork10Ver2.tests2.Test2" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2.sampleTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JQALearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeWorksSelenium.homeWork10Ver2.tests2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="selenium.homeWorkVer2.tests2" />
-      <option name="MAIN_CLASS_NAME" value="homeWorksSelenium.homeWork10Ver2.tests2.Test2" />
-      <option name="METHOD_NAME" value="sampleTest1" />
+      <option name="PACKAGE_NAME" value="homeWork11" />
+      <option name="MAIN_CLASS_NAME" value="homeWork11.ExplicitWaitTesting" />
+      <option name="METHOD_NAME" value="testExplicitWait1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2.sampleTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExplicitWaitTesting.testExplicitWait2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JQALearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorksSelenium.homeWork10Ver2.tests2.*" />
+          <option name="PATTERN" value="homeWork11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="selenium.homeWorkVer2.tests2" />
-      <option name="MAIN_CLASS_NAME" value="homeWorksSelenium.homeWork10Ver2.tests2.Test2" />
-      <option name="METHOD_NAME" value="sampleTest2" />
+      <option name="PACKAGE_NAME" value="homeWork11" />
+      <option name="MAIN_CLASS_NAME" value="homeWork11.ExplicitWaitTesting" />
+      <option name="METHOD_NAME" value="testExplicitWait2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.action_P2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JQALearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork10.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homeWork10.tests" />
+      <option name="MAIN_CLASS_NAME" value="homeWork10.tests.Test" />
+      <option name="METHOD_NAME" value="action_P2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -202,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SeleniumTest1" />
-        <item itemvalue="JUnit.Test2" />
-        <item itemvalue="JUnit.Test2.sampleTest2" />
-        <item itemvalue="JUnit.Test2.sampleTest1" />
-        <item itemvalue="JUnit.Test" />
+        <item itemvalue="JUnit.ExplicitWaitTesting" />
+        <item itemvalue="JUnit.ExplicitWaitTesting.testExplicitWait1" />
+        <item itemvalue="JUnit.ExplicitWaitTesting.testExplicitWait2" />
+        <item itemvalue="JUnit.Test.action_P2" />
+        <item itemvalue="Application.SecondTestCase" />
       </list>
     </recent_temporary>
   </component>
@@ -218,13 +213,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667289628649</updated>
-    </task>
-    <task id="LOCAL-00004" summary="added the fifth exercise from the first homework.">
-      <created>1668787801328</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1668787801328</updated>
     </task>
     <task id="LOCAL-00005" summary="added the fifth exercise from the first homework.">
       <created>1668789103281</created>
@@ -562,7 +550,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678734165229</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="We work hard to improve your experience.">
+      <created>1679505720006</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1679505720006</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -598,7 +593,8 @@
     <MESSAGE value="Homework 9 and some miscellaneous..." />
     <MESSAGE value="Homework 10 and some fixes..." />
     <MESSAGE value="Homework 10 ver2 and some fixes..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 10 ver2 and some fixes..." />
+    <MESSAGE value="We work hard to improve your experience." />
+    <option name="LAST_COMMIT_MESSAGE" value="We work hard to improve your experience." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,4 +1,4 @@
-package homeWorksSelenium.homeWork10.tests;
+package homeWork10.tests;
 
 
 import org.junit.After;

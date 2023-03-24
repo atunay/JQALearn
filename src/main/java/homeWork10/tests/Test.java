@@ -1,7 +1,7 @@
-package homeWorksSelenium.homeWork10.tests;
+package homeWork10.tests;
 
-import homeWorksSelenium.homeWork10.pages.P1;
-import homeWorksSelenium.homeWork10.pages.P2;
+import homeWork10.pages.P1;
+import homeWork10.pages.P2;
 
 public class Test extends Setting {
 
