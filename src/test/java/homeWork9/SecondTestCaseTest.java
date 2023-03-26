@@ -1,4 +1,4 @@
-package homeWorksSelenium;
+package homeWork9;
 
 import org.junit.After;
 import org.junit.Assert;

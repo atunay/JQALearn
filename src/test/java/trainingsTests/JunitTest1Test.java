@@ -1,3 +1,5 @@
+package trainingsTests;
+
 import trainings.JunitTest1;
 import org.junit.After;
 import org.junit.Before;
