@@ -8,8 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9b1387b-bff9-4e26-a2df-7326386f9f81" name="Changes" comment="some enhancements...">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Features/purchase.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork11/ExplicitWaitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork11/ExplicitWaitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork11/ExplicitWaitTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork11/ExplicitWaitTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/trainingsTests/ActionActionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/trainingsTests/ActionActionsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +83,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/tunay/IdeaProjects/JQALearn/src/main/java/selenium",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -106,13 +111,36 @@
       <recent name="Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ExplicitWaitTesting">
-    <configuration name="SecondTestCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork9.SecondTestCase" />
+  <component name="RunManager" selected="Cucumber Java.Feature: purchase">
+    <configuration name="Feature: dashboardPage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Features/dashboardPage.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="JQALearn" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: dashboardPage" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork9.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: purchase" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Features/purchase.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="JQALearn" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: purchase" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,33 +179,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExplicitWaitTesting.testExplicitWait2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test2.sampleTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JQALearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork11.*" />
+          <option name="PATTERN" value="homeWork10Ver2.tests2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homeWork11" />
-      <option name="MAIN_CLASS_NAME" value="homeWork11.ExplicitWaitTesting" />
-      <option name="METHOD_NAME" value="testExplicitWait2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test.action_P2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JQALearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeWork10.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="homeWork10.tests" />
-      <option name="MAIN_CLASS_NAME" value="homeWork10.tests.Test" />
-      <option name="METHOD_NAME" value="action_P2" />
+      <option name="PACKAGE_NAME" value="homeWork10Ver2.tests2" />
+      <option name="MAIN_CLASS_NAME" value="homeWork10Ver2.tests2.Test2" />
+      <option name="METHOD_NAME" value="sampleTest1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -185,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: purchase" />
+        <item itemvalue="Cucumber Java.Feature: dashboardPage" />
         <item itemvalue="JUnit.ExplicitWaitTesting" />
+        <item itemvalue="JUnit.Test2.sampleTest1" />
         <item itemvalue="JUnit.ExplicitWaitTesting.testExplicitWait1" />
-        <item itemvalue="JUnit.ExplicitWaitTesting.testExplicitWait2" />
-        <item itemvalue="JUnit.Test.action_P2" />
-        <item itemvalue="Application.SecondTestCase" />
       </list>
     </recent_temporary>
   </component>
@@ -201,13 +213,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667289628649</updated>
-    </task>
-    <task id="LOCAL-00009" summary="complete the first homework.">
-      <created>1668939649995</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1668939649995</updated>
     </task>
     <task id="LOCAL-00010" summary="complete the first homework.">
       <created>1669020498701</created>
@@ -545,7 +550,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679821546655</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="some enhancements...">
+      <created>1679937809961</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1679937809962</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

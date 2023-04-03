@@ -31,5 +31,4 @@ public class ExplicitWaitTest {
     public void closeBrowser (){
         driver.quit();
     }
-
 }
