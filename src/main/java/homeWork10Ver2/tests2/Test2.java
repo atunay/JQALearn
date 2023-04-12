@@ -4,13 +4,6 @@ package homeWork10Ver2.tests2;
 import homeWork10Ver2.pages2.Page1;
 import homeWork10Ver2.pages2.Page2;
 import org.junit.Test;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.time.Duration;
-import java.util.concurrent.TimeUnit;
-
-import static org.openqa.selenium.support.ui.ExpectedConditions.elementToBeClickable;
 
 public class Test2 extends BrowserFactory {
 

@@ -7,7 +7,7 @@
 - ако имам по-малко от 10 лв ще отида за сладолед */
 package homeWork1;
 
-import java.util.Scanner; //импортивам четец от библиотеката
+import java.util.Scanner;
 
 public class ExsFour {
     public static void main(String[] Args) {

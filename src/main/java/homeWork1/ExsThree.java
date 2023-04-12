@@ -4,7 +4,7 @@
  */
 package homeWork1;
 
-import java.util.Scanner; //импортирам четеца
+import java.util.Scanner;
 
 public class ExsThree {
 

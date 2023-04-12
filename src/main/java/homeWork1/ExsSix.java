@@ -3,7 +3,7 @@
  */
 package homeWork1;
 
-import java.util.Scanner; //четец от клас от библиотеката
+import java.util.Scanner;
 
 public class ExsSix {
     public static void main(String[] Args) {

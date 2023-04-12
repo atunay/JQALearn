@@ -5,7 +5,7 @@
 
 package homeWork2;
 
-import java.util.stream.IntStream; //импортирам предефиниран клас
+import java.util.stream.IntStream;
 
 public class ExcFourOfTwo {
     public static void main(String[] args) {

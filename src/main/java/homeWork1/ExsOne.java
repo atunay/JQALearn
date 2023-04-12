@@ -4,7 +4,7 @@
  */
 package homeWork1;
 
-import java.util.Scanner; //извикваме четеца от библиотеката
+import java.util.Scanner;
 
 public class ExsOne {
     public static void main(String[] args) {

@@ -3,7 +3,8 @@
 
 
 package homeWork2;
-import java.util.Arrays; //импортитраме нужният клас
+
+import java.util.Arrays;
 
 public class ExcSixOfTwo {
     public static void main(String[] args) {

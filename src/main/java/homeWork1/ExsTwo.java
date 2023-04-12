@@ -5,7 +5,7 @@
  */
 package homeWork1;
 
-import java.util.Scanner; //извиквам четеца като готов клас от библиотеката
+import java.util.Scanner;
 
 public class ExsTwo {//public class
 
